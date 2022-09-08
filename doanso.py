@@ -25,7 +25,7 @@ while check == True:
      print(' |_|\_\_|  |_/_/    \_\_| \_|\_____|')
      print(Fore.GREEN)
      print('Delerloped by Khang Phan \n')
-     tut='hãy nghĩ về một con số từ 1 đến 64 và tìm chúng trong dãy số sau đây \nnếu có ấn "yes" nếu không ấn "no" \n'
+     tut='hãy nghĩ về một con số từ 1 đến 63 và tìm chúng trong dãy số sau đây \nnếu có ấn "yes" nếu không ấn "no" \n'
      for tutorial in tut:
           print( Fore.WHITE+tutorial, end='')
           sys.stdout.flush()
@@ -39,7 +39,7 @@ while check == True:
           print(' |_|\_\_|  |_/_/    \_\_| \_|\_____|')
           print(Fore.GREEN)
           print('Delerloped by Khang Phan \n')
-          print(Fore.WHITE+'hãy nghĩ về một con số từ 1 đến 64 và tìm chúng trong dãy số sau đây \nnếu có ấn "yes" nếu không ấn "no" \n')
+          print(Fore.WHITE+'hãy nghĩ về một con số từ 1 đến 63 và tìm chúng trong dãy số sau đây \nnếu có ấn "yes" nếu không ấn "no" \n')
           return;
      print()
      time.sleep(1.5)
