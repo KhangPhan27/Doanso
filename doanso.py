@@ -1,5 +1,5 @@
 from colorama import init, Fore, Back, Style
-from colorama import Fore, Back, Style
+
 import  os 
 import sys
 import time
@@ -16,7 +16,7 @@ checkanswer = True
 while check == True:
      os.system('clear')
      sum=0
-#function
+
      print(Fore.RED + '   _  ___    _          _   _  _____ ')
      print(' | |/ / |  | |   /\   | \ | |/ ____|')
      print(" | ' /| |__| |  /  \  |  \| | |  __ ")
